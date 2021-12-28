@@ -29,3 +29,7 @@ RETRIEVE
 
 * delete shake details based on shake id.
 * delete shake details based on shake name.
+# Screenshot
+<a id="user-content-Screenshots" class="anchor" aria-hidden="true" href="#Screenshots"></a>
+
+<a href="https://github.com/SHREYUGANDHI/MongoDB-SimpleCRUD/tree/main/postman"> Click Here</a>"> Click Here</>
