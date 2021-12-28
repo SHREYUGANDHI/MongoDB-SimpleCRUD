@@ -11,21 +11,21 @@ Milk Shake
 * size : String
 
 POST REQUESTS:-
-* ADD
 
+ADD
 * add new shake detials.
 
-* RETRIEVE
+RETRIEVE
 
 * fetch all shake details.
 * fetch shake details based on shake id.
 
-* UPDATE
+ UPDATE
 
 * update shake details with shake id.
 * update shake details with shake name.
 
-* DELETE
+ DELETE
 
 * delete shake details based on shake id.
 * delete shake details based on shake name.
